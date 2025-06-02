@@ -6,6 +6,7 @@
 
 # DataFrame:
 - [ ] Гетерогенные колонки
+
     1\. std::variant
-    2.\ boost::variant 
+    2\. boost::variant 
 
