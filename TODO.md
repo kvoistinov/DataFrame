@@ -5,9 +5,8 @@
 - [ ] Изучить хранение данных из CSV файла:
 
 # DataFrame:
-- [ ] Гетерогенные колонки
-
-     &#x25CF; 1. std::variant
-
-     &#x25CF; 2. boost::variant 
-
+<p style="line-height: 1.2; margin: 0; padding: 0;">
+- [ ] Гетерогенные колонки<br>
+&nbsp;&nbsp;- [ ] 1. std::variant<br>
+&nbsp;&nbsp;- [ ] 2. boost::variant
+</p>
